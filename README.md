@@ -1,6 +1,6 @@
-# 18-NoSQL-Challenge-Social-Network-API [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 19-Progressive-Web-Applications-PWA-Challenge-Text-Editor [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a back end Mongo application which creates, updates and deletes users, thoughts, friends and reactions. [MIT License](https://opensource.org/licenses/MIT)
+This is a PWA text editor that can be used to write and store text both online and offline and can be downloaded. [MIT License](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -17,14 +17,14 @@ To install the application, run the following code...
 
 ```shell
 npm run seed
-node index.js
+npm start
 ```
 
 ## Usage
 
-After running the seed command, you can use Insomnia to test the routes.
+After running the code above, open your browser and go to localhost:3000
 
-Github repository: https://github.com/SamMarch/18-NoSQL-Challenge-Social-Network-API.git
+Github repository: https://github.com/SamMarch/19-Progressive-Web-Applications-PWA-Challenge-Text-Editor.git
 
 ![](public/images/screenshot.png)
 
